@@ -1,2 +1,3 @@
-# belajar-git
+git add index.html about.html contact.html
+git status
 
